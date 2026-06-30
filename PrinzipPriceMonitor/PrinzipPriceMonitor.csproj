@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="Dockerfile" />
+		<Compile Remove="docker-compose.yml" />
+		<Compile Remove=".dockerignore" />
+		<Compile Remove="**/*.md" />
+		<Compile Remove="**/*.db" />
+		<Compile Remove="**/*.db-shm" />
+		<Compile Remove="**/*.db-wal" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0" />
+		<PackageReference Include="HtmlAgilityPack" Version="1.11.54" />
+		<PackageReference Include="MailKit" Version="4.8.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	</ItemGroup>
+</Project>

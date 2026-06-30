@@ -1,0 +1,28 @@
+﻿version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "5000:8080"
+    volumes:
+      - sqlite_data:/app/data
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Smtp__Host=mailhog
+      - Smtp__Port=1025
+      - Smtp__User=
+      - Smtp__Password=
+      - Smtp__FromEmail=noreply@prinzip-monitor.local
+      - Smtp__UseSsl=false
+    depends_on:
+      - mailhog
+
+  mailhog:
+    image: mailhog/mailhog:latest
+    ports:
+      - "1025:1025"  
+      - "8025:8025"  
+
+volumes:
+  sqlite_data:

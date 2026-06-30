@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Portfolio\\PrinzipPriceMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\services\\prinzippriceparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\services\\prinzippriceparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\controllers\\testemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\controllers\\testemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\services\\pricecheckerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\services\\pricecheckerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\models\\dtos\\updatesettingsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\models\\dtos\\updatesettingsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\models\\dtos\\settingsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\models\\dtos\\settingsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\services\\isettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\services\\isettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\prinzippricemonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\prinzippricemonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\models\\pricehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\models\\pricehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\services\\ipriceparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\services\\ipriceparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\models\\dtos\\subscriptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\models\\dtos\\subscriptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|c:\\portfolio\\prinzippricemonitor\\prinzippricemonitor\\models\\dtos\\createsubscriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC71AFC-EC51-4C24-BCBF-D1BBACB4A267}|PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj|solutionrelative:prinzippricemonitor\\models\\dtos\\createsubscriptionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestEmailController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Controllers\\TestEmailController.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Controllers\\TestEmailController.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Controllers\\TestEmailController.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Controllers\\TestEmailController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:24:10.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:14:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateSettingsRequest.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\DTOs\\UpdateSettingsRequest.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Models\\DTOs\\UpdateSettingsRequest.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\DTOs\\UpdateSettingsRequest.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Models\\DTOs\\UpdateSettingsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:14:21.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsResponse.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\DTOs\\SettingsResponse.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Models\\DTOs\\SettingsResponse.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\DTOs\\SettingsResponse.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Models\\DTOs\\SettingsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:14:08.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Services\\SettingsService.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\SettingsService.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Services\\SettingsService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA2wD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:11:52.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISettingsService.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\ISettingsService.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Services\\ISettingsService.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\ISettingsService.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Services\\ISettingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:11:36.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Dockerfile",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Dockerfile",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Dockerfile",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-30T13:02:23.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\docker-compose.yml",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\docker-compose.yml",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\docker-compose.yml",
+              "RelativeToolTip": "PrinzipPriceMonitor\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-30T12:45:59.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\appsettings.json",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\appsettings.json",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\appsettings.json",
+              "RelativeToolTip": "PrinzipPriceMonitor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-30T12:45:06.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Program.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Program.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:42:51.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PriceCheckerHostedService.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\PriceCheckerHostedService.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Services\\PriceCheckerHostedService.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\PriceCheckerHostedService.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Services\\PriceCheckerHostedService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:39:09.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmtpEmailService.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\SmtpEmailService.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Services\\SmtpEmailService.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\SmtpEmailService.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Services\\SmtpEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:39:01.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\IEmailService.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:38:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrinzipPriceParser.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\PrinzipPriceParser.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Services\\PrinzipPriceParser.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\PrinzipPriceParser.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Services\\PrinzipPriceParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:38:46.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPriceParser.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\IPriceParser.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Services\\IPriceParser.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Services\\IPriceParser.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Services\\IPriceParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:38:39.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:38:20.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SubscriptionResponse.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\DTOs\\SubscriptionResponse.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Models\\DTOs\\SubscriptionResponse.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\DTOs\\SubscriptionResponse.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Models\\DTOs\\SubscriptionResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:38:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateSubscriptionRequest.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\DTOs\\CreateSubscriptionRequest.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Models\\DTOs\\CreateSubscriptionRequest.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\DTOs\\CreateSubscriptionRequest.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Models\\DTOs\\CreateSubscriptionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:38:04.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PriceHistory.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\PriceHistory.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Models\\PriceHistory.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\PriceHistory.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Models\\PriceHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:37:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Models\\Subscription.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Models\\Subscription.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Models\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:37:48.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionsController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Controllers\\SubscriptionsController.cs",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\Controllers\\SubscriptionsController.cs",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\Controllers\\SubscriptionsController.cs",
+              "RelativeToolTip": "PrinzipPriceMonitor\\Controllers\\SubscriptionsController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADgv4YAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T12:37:39.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrinzipPriceMonitor",
+              "DocumentMoniker": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj",
+              "RelativeDocumentMoniker": "PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj",
+              "ToolTip": "C:\\Portfolio\\PrinzipPriceMonitor\\PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj",
+              "RelativeToolTip": "PrinzipPriceMonitor\\PrinzipPriceMonitor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-30T12:36:14.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
